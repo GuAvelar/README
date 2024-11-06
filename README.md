@@ -4,6 +4,9 @@
 - 🎓 Estudando ADS na FIAP.
 - 🌱 Aprendizagem contínua.
 
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuAvelar&show_icons=true&theme=dracula)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
