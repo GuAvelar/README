@@ -26,10 +26,6 @@
 
 <br/>
 
-<a href="https://github.com/GuAvelar" title="Perfil do Gustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-giotto-avelar-809057277/)
